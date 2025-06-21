@@ -1,1 +1,1 @@
-print("Hiiiii")n,n,mbm
+print("Hiiiii")
